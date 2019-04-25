@@ -1,5 +1,5 @@
 {
-	"name": "redux-cache",
+	"name": "@vargentum/redux-cache",
 	"version": "0.3.0",
 	"description": "Client side TTL caching strategy for redux applications",
 	"main": "lib/index.js",
